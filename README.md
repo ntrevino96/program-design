@@ -1,5 +1,6 @@
 # Programming Design
 __Spring 2020, Washington University in Saint Louis, F10 ART 338Y__
+
 Class meets Tuesday/Thursdays, 8:30am to 11:20am
 
 ## Course description
