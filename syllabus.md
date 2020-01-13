@@ -139,7 +139,7 @@ Course grades are not curved, but will be issued on a plus/minus scale. Work han
 * **Generated Zine**: 5 points (7%)
 * **Owned**: 5 points (7%)
 
-### Self Evaluation[^goldstein]
+### Self Evaluation[¹](https://github.com/benkiel/program-design/blob/master/syllabus.md#this-is-not-an-original-idea-for-grading-it-is-taken-from-mitch-goldstein-see-his-formulation-and-twitter-thread-about-it)
 The majority of your course grade (66%) is based upon your self evaluations. You are in school to improve and better yourself as a designer, not to spend time trying to figure out what your instructor will give an “A” for. Self evaluation is a method for you to be honest about your work, engage in what you find best serves the project and your interests, and build a skill that has life-long value.
 
 **Criteria**  
