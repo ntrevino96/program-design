@@ -75,8 +75,8 @@ Owned
 | | Tuesday | Thursday |
 |:--|:-:|:-:|
 | **Week 1**: January 14 & 16 | Course introduction | Intro to Tools |
-| **Week 2**: January 21 & 23 | Intro to Tools | Pattern |
-| **Week 3**: January 28 & 30 | Pattern | **No Class** |
+| **Week 2**: January 21 & 23 | Intro to Tools | **No Class**  |
+| **Week 3**: January 28 & 30 | Pattern | Pattern |
 | **Week 4**: February 4 & 6 | Pattern— _Final_ | Helper |
 | **Week 5**: February 11 & 13 | Helper— _Final_ | Generated zine |
 | **Week 6**: February 18 & 20 | Generated zine | Press workshop |
