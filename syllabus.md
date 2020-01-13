@@ -259,4 +259,4 @@ For information on all available student resources, including disability accommo
 * [Cherokee Street](https://cherokeestreet.com). One of Saint Louis’s vibrant neighborhoods. Tacos to vintage shops.
 * The Luminary, [theluminaryarts.com](http://theluminaryarts.com). On Cherokee street, an artist run gallery and studio space.
 
-[^goldstein]: This is not an original idea for grading. It is taken from [Mitch Goldstein](http://mitchgoldstein.com). See his [formulation](http://mitchgoldstein.com/teaching/self_eval.pdf) and [twitter thread](https://twitter.com/mgoldst/status/1210370219585277952) about it.
+###### This is not an original idea for grading. It is taken from [Mitch Goldstein](http://mitchgoldstein.com). See his [formulation](http://mitchgoldstein.com/teaching/self_eval.pdf) and [twitter thread](https://twitter.com/mgoldst/status/1210370219585277952) about it.
