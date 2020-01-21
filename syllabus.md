@@ -119,7 +119,7 @@ The course fee ($40) provides for general shop materials (inks, rags, disposal, 
 Depending on scope of your projects, you may need to purchase additional paper and/or printmaking supplies.
 
 ### Daily Work/Homework
-Students are expected to do work outside of class to complete assignments and do readings. More outside time will be required for the later assignments in the course. There will be no more than one reading every two weeks. Some outside work will require the use of the book studio during monitor hours; please plan accordingly.
+No Homework!
 
 ### Class Participation
 Work time in the studio is critical to the successful completion of the class. Students are expected to arrive ready to participate and be fully engaged in the day’s coursework during the entire scheduled class period. Meaning, you are ready to provide critique, participate in formal and informal class discussion, and to discuss your work with peers.
