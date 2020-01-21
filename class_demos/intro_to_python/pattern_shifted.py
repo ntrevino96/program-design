@@ -1,6 +1,6 @@
 from random import random
 
-w = 1000
+w = 200
 h = 1000
 module = 100
 padding = 5
