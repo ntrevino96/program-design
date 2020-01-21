@@ -10,7 +10,7 @@ Office hours by appointment only (via [email](mailto:ben@typefounding.com))
 
 [Email](mailto:ben@typefounding.com) is responded to within a day (24 hours) of sending. Reply time is slower on weekends than during the week. Email or Slack are the preferred contact methods for questions outside of class.
 
-## Course Description
+## Course Descriptiond
 
 This is a class about asking questions, designing processes, building systems, input & output, and combining them together.  It is fundamentally experimental in nature.
 
